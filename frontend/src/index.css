@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body {
+  background-color: #0B1220;
+  color: #F3F6FB;
+}
+
+body {
+  font-family: "IBM Plex Sans", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  background-image: linear-gradient(rgba(76, 124, 240, 0.025) 1px, transparent 1px), linear-gradient(90deg, rgba(76, 124, 240, 0.025) 1px, transparent 1px), radial-gradient(circle at 80% 0%, rgba(76, 124, 240, 0.08), transparent 28rem);
+  background-size: 42px 42px, 42px 42px, auto;
+  background-attachment: fixed;
+}
+
+h1, h2, h3, h4, .font-display {
+  font-family: "Space Grotesk", sans-serif;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #0B1220;
+}
+::-webkit-scrollbar-thumb {
+  background: #233350;
+  border-radius: 8px;
+}
+
+:focus-visible {
+  outline: 2px solid #4C7CF0;
+  outline-offset: 2px;
+}
+
+::selection {
+  background: rgba(76, 124, 240, 0.35);
+  color: #F3F6FB;
+}
+
+@keyframes rise-in {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+main > div {
+  animation: rise-in 420ms ease-out both;
+}
+
+/* Recharts tooltip dark theme override */
+.recharts-default-tooltip {
+  background-color: #131E30 !important;
+  border: 1px solid #233350 !important;
+  border-radius: 8px !important;
+  color: #F3F6FB !important;
+}
+.recharts-tooltip-label {
+  color: #AEBBD4 !important;
+}

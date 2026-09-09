@@ -1,0 +1,452 @@
+report_id,description,location,source
+R001,Contractor accessed a vessel entry point without permit sign-off. under time pressure to complete the task.,Production Facility B,Industrial Safety Dataset
+R002,Contractor was grinding near flammable material without a hot work permit. while working alone without supervision.,Drill Site A,Industrial Safety Dataset
+R003,Worker was seen without a hard hat near an overhead crane operation. following a shift handover.,Tank Farm C,Industrial Safety Dataset
+R004,Contractor was grinding near flammable material without a hot work permit. under time pressure to complete the task.,Loading Terminal G,Industrial Safety Dataset
+R005,Technician entered a tank for cleaning without gas testing performed. while working alone without supervision.,Pipeline ROW D,Industrial Safety Dataset
+R006,Worker was struck by a dropped tool from an elevated platform. under time pressure to complete the task.,Gas Processing Plant F,Industrial Safety Dataset
+R007,A driver was killed in a vehicle rollover while transporting equipment on an unpaved road.,Production Facility B,IOGP Fatal Incident Report
+R008,Worker inspected a pressure vessel without verifying isolation status. while working alone without supervision.,Gas Processing Plant F,Industrial Safety Dataset
+R009,Worker performed maintenance on rotating equipment without isolation. during night shift operations.,Production Facility B,Industrial Safety Dataset
+R010,"Employee slipped on an oil spill in the workshop, no injury reported. while working alone without supervision.",Drill Site A,Industrial Safety Dataset
+R011,Worker performed maintenance on rotating equipment without isolation. during a routine inspection.,Well Pad H,Industrial Safety Dataset
+R012,Worker entered a confined space without atmospheric testing. under time pressure to complete the task.,Workshop E,Industrial Safety Dataset
+R013,Driver skipped the pre-trip vehicle inspection before a long site journey. following a shift handover.,Pipeline ROW D,Industrial Safety Dataset
+R014,Worker was exposed to chemical fumes due to a damaged ventilation system. during night shift operations.,Drill Site A,Industrial Safety Dataset
+R015,Worker was seen without a hard hat near an overhead crane operation. during a routine inspection.,Site Yard J,Industrial Safety Dataset
+R016,Driver skipped the pre-trip vehicle inspection before a long site journey. during night shift operations.,Gas Processing Plant F,Industrial Safety Dataset
+R017,Worker reported a communication gap during shift handover on the drilling rig. during a routine inspection.,Workshop E,Industrial Safety Dataset
+R018,Worker was struck by a falling object near the lifting zone. during a routine inspection.,Drill Site A,Industrial Safety Dataset
+R019,Employee wore full PPE and followed procedure during routine inspection.,Electrical Substation I,Industrial Safety Dataset
+R020,Contractor entered the site without completing the induction training. following a shift handover.,Gas Processing Plant F,Industrial Safety Dataset
+R021,Worker noticed an unmarked wet floor and placed a warning sign.,Drill Site A,Industrial Safety Dataset
+R022,Rigger was working under a suspended load during lifting operation. during a routine inspection.,Workshop E,Industrial Safety Dataset
+R023,Maintenance worker performed welding without proper hot work controls. while working alone without supervision.,Electrical Substation I,Industrial Safety Dataset
+R024,Truck driver was found using a mobile phone while driving on the road. under time pressure to complete the task.,Electrical Substation I,Industrial Safety Dataset
+R025,Worker performed maintenance on rotating equipment without isolation. under time pressure to complete the task.,Gas Processing Plant F,Industrial Safety Dataset
+R026,Employee filled out routine paperwork in the office. following a shift handover.,Well Pad H,Industrial Safety Dataset
+R027,Crane operator lifted a load without verifying the rigging inspection. during night shift operations.,Electrical Substation I,Industrial Safety Dataset
+R028,Employee reported strong fumes near the chemical storage tank. while working alone without supervision.,Electrical Substation I,Industrial Safety Dataset
+R029,"Employee reported a minor spill of hydraulic oil, cleaned up promptly. during night shift operations.",Drill Site A,Industrial Safety Dataset
+R030,Worker noticed an unmarked wet floor and placed a warning sign. while working alone without supervision.,Tank Farm C,Industrial Safety Dataset
+R031,"A contractor died after a lifting sling failed, causing the suspended load to fall.",Pipeline ROW D,IOGP Fatal Incident Report
+R032,Employee wore full PPE and followed procedure during routine inspection. during night shift operations.,Production Facility B,Industrial Safety Dataset
+R033,Worker used an unguarded grinder causing sparks near flammable material. during a routine inspection.,Site Yard J,Industrial Safety Dataset
+R034,Worker was exposed to an energized electrical panel. following a shift handover.,Electrical Substation I,Industrial Safety Dataset
+R035,Contractor was grinding near flammable material without a hot work permit.,Well Pad H,Industrial Safety Dataset
+R036,Worker performed a routine walk-around inspection with no issues found. under time pressure to complete the task.,Pipeline ROW D,Industrial Safety Dataset
+R037,Worker performed hot work near a chemical storage area without a permit. during night shift operations.,Loading Terminal G,Industrial Safety Dataset
+R038,"Worker fell from a small height while descending stairs, minor injury. during a routine inspection.",Drill Site A,Industrial Safety Dataset
+R039,Driver skipped the pre-trip vehicle inspection before a long site journey. under time pressure to complete the task.,Pipeline ROW D,Industrial Safety Dataset
+R040,Employee reported a near miss involving a slippery floor in the corridor. following a shift handover.,Gas Processing Plant F,Industrial Safety Dataset
+R041,Worker climbed into a manhole without confined space precautions. while working alone without supervision.,Electrical Substation I,Industrial Safety Dataset
+R042,Crane operator lifted a load without verifying the rigging inspection.,Tank Farm C,Industrial Safety Dataset
+R043,"Employee reported a minor spill of hydraulic oil, cleaned up promptly. during night shift operations.",Pipeline ROW D,Industrial Safety Dataset
+R044,Employee filled out routine paperwork in the office. while working alone without supervision.,Production Facility B,Industrial Safety Dataset
+R045,"Employee reported a minor spill of hydraulic oil, cleaned up promptly.",Workshop E,Industrial Safety Dataset
+R046,Worker noticed an unmarked wet floor and placed a warning sign. during night shift operations.,Drill Site A,Industrial Safety Dataset
+R047,Worker completed a toolbox talk before starting maintenance activity. following a shift handover.,Electrical Substation I,Industrial Safety Dataset
+R048,Worker climbed into a manhole without confined space precautions. following a shift handover.,Tank Farm C,Industrial Safety Dataset
+R049,Worker was exposed to chemical fumes due to a damaged ventilation system.,Workshop E,Industrial Safety Dataset
+R050,Worker inspected a pressure vessel without verifying isolation status. under time pressure to complete the task.,Tank Farm C,Industrial Safety Dataset
+R051,Rigger performed a lifting operation using a damaged sling. during a routine inspection.,Well Pad H,Industrial Safety Dataset
+R052,Staff attended a safety training session in the conference room. during a routine inspection.,Electrical Substation I,Industrial Safety Dataset
+R053,Employee was standing below a suspended crane load. while working alone without supervision.,Production Facility B,Industrial Safety Dataset
+R054,Worker performed a routine walk-around inspection with no issues found. under time pressure to complete the task.,Tank Farm C,Industrial Safety Dataset
+R055,Contractor entered the site without completing the induction training. following a shift handover.,Production Facility B,Industrial Safety Dataset
+R056,Employee was caught between two pieces of moving equipment. under time pressure to complete the task.,Loading Terminal G,Industrial Safety Dataset
+R057,"Employee slipped on an oil spill in the workshop, no injury reported. during night shift operations.",Loading Terminal G,Industrial Safety Dataset
+R058,Crane operator lifted a load without verifying the rigging inspection. during a routine inspection.,Production Facility B,Industrial Safety Dataset
+R059,Technician handled a corrosive chemical without required gloves. following a shift handover.,Production Facility B,Industrial Safety Dataset
+R060,Contractor entered the site without completing the induction training. under time pressure to complete the task.,Gas Processing Plant F,Industrial Safety Dataset
+R061,"A fatal incident occurred when a pressurized line failed during maintenance, striking a worker.",Site Yard J,IOGP Fatal Incident Report
+R062,Worker was found on a scaffold without fall protection. during night shift operations.,Loading Terminal G,Industrial Safety Dataset
+R063,Contractor accessed a vessel entry point without permit sign-off. during a routine inspection.,Drill Site A,Industrial Safety Dataset
+R064,An employee died from asphyxiation after entering a tank without atmospheric testing.,Pipeline ROW D,IOGP Fatal Incident Report
+R065,Employee filled out routine paperwork in the office. under time pressure to complete the task.,Gas Processing Plant F,Industrial Safety Dataset
+R066,Worker used an unguarded grinder causing sparks near flammable material. during a routine inspection.,Electrical Substation I,Industrial Safety Dataset
+R067,Electrician worked on wiring without isolation confirmed. while working alone without supervision.,Well Pad H,Industrial Safety Dataset
+R068,Rigger performed a lifting operation using a damaged sling. during night shift operations.,Workshop E,Industrial Safety Dataset
+R069,Contractor entered the site without completing the induction training. during night shift operations.,Gas Processing Plant F,Industrial Safety Dataset
+R070,Worker performed a routine walk-around inspection with no issues found. while working alone without supervision.,Tank Farm C,Industrial Safety Dataset
+R071,Worker entered a confined space without atmospheric testing. during night shift operations.,Pipeline ROW D,Industrial Safety Dataset
+R072,Staff attended a safety training session in the conference room. following a shift handover.,Well Pad H,Industrial Safety Dataset
+R073,Maintenance worker performed welding without proper hot work controls.,Pipeline ROW D,Industrial Safety Dataset
+R074,"Employee reported a minor spill of hydraulic oil, cleaned up promptly. while working alone without supervision.",Drill Site A,Industrial Safety Dataset
+R075,Worker was exposed to an energized electrical panel. following a shift handover.,Pipeline ROW D,Industrial Safety Dataset
+R076,Employee drove a vehicle without a seatbelt during a site journey. following a shift handover.,Tank Farm C,Industrial Safety Dataset
+R077,Worker performed maintenance on rotating equipment without isolation. following a shift handover.,Pipeline ROW D,Industrial Safety Dataset
+R078,Contractor was grinding near flammable material without a hot work permit. following a shift handover.,Electrical Substation I,Industrial Safety Dataset
+R079,Contractor was grinding near flammable material without a hot work permit. while working alone without supervision.,Pipeline ROW D,Industrial Safety Dataset
+R080,Technician handled a corrosive chemical without required gloves. while working alone without supervision.,Tank Farm C,Industrial Safety Dataset
+R081,Welding activity carried out without a fire watch in place. following a shift handover.,Loading Terminal G,Industrial Safety Dataset
+R082,Technician replaced a light fixture using an unstable step ladder.,Pipeline ROW D,Industrial Safety Dataset
+R083,Employee was standing below a suspended crane load.,Workshop E,Industrial Safety Dataset
+R084,Driver skipped the pre-trip vehicle inspection before a long site journey. during a routine inspection.,Electrical Substation I,Industrial Safety Dataset
+R085,Worker climbed into a manhole without confined space precautions. following a shift handover.,Site Yard J,Industrial Safety Dataset
+R086,Technician replaced a light fixture using an unstable step ladder. following a shift handover.,Site Yard J,Industrial Safety Dataset
+R087,Employee wore full PPE and followed procedure during routine inspection. during night shift operations.,Workshop E,Industrial Safety Dataset
+R088,Electrician worked on wiring without isolation confirmed. during a routine inspection.,Loading Terminal G,Industrial Safety Dataset
+R089,Worker was operating in the line of fire of a pressurized hose. while working alone without supervision.,Drill Site A,Industrial Safety Dataset
+R090,Worker reported a communication gap during shift handover on the drilling rig.,Site Yard J,Industrial Safety Dataset
+R091,Worker was seen without a hard hat near an overhead crane operation. under time pressure to complete the task.,Drill Site A,Industrial Safety Dataset
+R092,Worker was operating a hoist without proper training.,Pipeline ROW D,Industrial Safety Dataset
+R093,Worker was exposed to an energized electrical panel. during a routine inspection.,Tank Farm C,Industrial Safety Dataset
+R094,Worker was found on a scaffold without fall protection. following a shift handover.,Electrical Substation I,Industrial Safety Dataset
+R095,Employee bypassed the lockout tagout procedure to restart equipment quickly. during night shift operations.,Production Facility B,Industrial Safety Dataset
+R096,A fatal fall occurred when a worker's harness was not properly anchored at height.,Electrical Substation I,IOGP Fatal Incident Report
+R097,Employee was caught between two pieces of moving equipment.,Tank Farm C,Industrial Safety Dataset
+R098,Employee reported inadequate guarding on a rotating machine part. while working alone without supervision.,Loading Terminal G,Industrial Safety Dataset
+R099,Worker performed hot work near a chemical storage area without a permit. during a routine inspection.,Tank Farm C,Industrial Safety Dataset
+R100,Worker was struck by a falling object near the lifting zone. under time pressure to complete the task.,Well Pad H,Industrial Safety Dataset
+R101,"Worker fell from a small height while descending stairs, minor injury. following a shift handover.",Production Facility B,Industrial Safety Dataset
+R102,Worker noticed a loose guard rail and reported it before an incident occurred. following a shift handover.,Tank Farm C,Industrial Safety Dataset
+R103,Worker inspected a pressure vessel without verifying isolation status. under time pressure to complete the task.,Workshop E,Industrial Safety Dataset
+R104,Worker was found on a scaffold without fall protection. under time pressure to complete the task.,Pipeline ROW D,Industrial Safety Dataset
+R105,Employee was caught between two pieces of moving equipment. under time pressure to complete the task.,Pipeline ROW D,Industrial Safety Dataset
+R106,Technician serviced a pump without confirming lockout tagout was applied. during night shift operations.,Drill Site A,Industrial Safety Dataset
+R107,Employee wore full PPE and followed procedure during routine inspection. during a routine inspection.,Production Facility B,Industrial Safety Dataset
+R108,Rigger was working under a suspended load during lifting operation. while working alone without supervision.,Tank Farm C,Industrial Safety Dataset
+R109,Worker was cutting a pipe with a spark near open fuel containers. following a shift handover.,Production Facility B,Industrial Safety Dataset
+R110,Contractor entered a confined tank without informing the control room. while working alone without supervision.,Electrical Substation I,Industrial Safety Dataset
+R111,Worker was operating a hoist without proper training. under time pressure to complete the task.,Workshop E,Industrial Safety Dataset
+R112,Technician opened a live electrical panel without lockout applied. following a shift handover.,Production Facility B,Industrial Safety Dataset
+R113,Contractor was grinding near flammable material without a hot work permit. during night shift operations.,Production Facility B,Industrial Safety Dataset
+R114,Worker was operating in the line of fire of a pressurized hose. under time pressure to complete the task.,Workshop E,Industrial Safety Dataset
+R115,Worker used an unguarded grinder causing sparks near flammable material. during night shift operations.,Production Facility B,Industrial Safety Dataset
+R116,Worker touched an energised cable while performing routine maintenance. during night shift operations.,Well Pad H,Industrial Safety Dataset
+R117,Worker inspected a pressure vessel without verifying isolation status. during night shift operations.,Drill Site A,Industrial Safety Dataset
+R118,Employee wore full PPE and followed procedure during routine inspection.,Drill Site A,Industrial Safety Dataset
+R119,Technician serviced a pump without confirming lockout tagout was applied. during a routine inspection.,Loading Terminal G,Industrial Safety Dataset
+R120,Employee drove a vehicle without a seatbelt during a site journey. during night shift operations.,Tank Farm C,Industrial Safety Dataset
+R121,An employee died from asphyxiation after entering a tank without atmospheric testing.,Workshop E,IOGP Fatal Incident Report
+R122,Employee reported inadequate guarding on a rotating machine part. while working alone without supervision.,Well Pad H,Industrial Safety Dataset
+R123,Employee was working at height on a roof without a harness. following a shift handover.,Drill Site A,Industrial Safety Dataset
+R124,Contractor was grinding near flammable material without a hot work permit. while working alone without supervision.,Loading Terminal G,Industrial Safety Dataset
+R125,Rigger performed a lifting operation using a damaged sling. while working alone without supervision.,Electrical Substation I,Industrial Safety Dataset
+R126,Contractor was grinding near flammable material without a hot work permit. while working alone without supervision.,Production Facility B,Industrial Safety Dataset
+R127,Employee reported inadequate guarding on a rotating machine part. during night shift operations.,Well Pad H,Industrial Safety Dataset
+R128,Worker inspected a pressure vessel without verifying isolation status. during a routine inspection.,Production Facility B,Industrial Safety Dataset
+R129,Worker climbed into a manhole without confined space precautions.,Pipeline ROW D,Industrial Safety Dataset
+R130,Worker was exposed to an energized electrical panel.,Loading Terminal G,Industrial Safety Dataset
+R131,Technician handled a corrosive chemical without required gloves. during a routine inspection.,Electrical Substation I,Industrial Safety Dataset
+R132,Driver skipped the pre-trip vehicle inspection before a long site journey. during night shift operations.,Site Yard J,Industrial Safety Dataset
+R133,Employee reported a near miss involving a slippery floor in the corridor.,Site Yard J,Industrial Safety Dataset
+R134,Falling material from an overhead pipe rack caused a near miss. following a shift handover.,Production Facility B,Industrial Safety Dataset
+R135,Contractor was grinding near flammable material without a hot work permit. under time pressure to complete the task.,Loading Terminal G,Industrial Safety Dataset
+R136,Worker performed maintenance on rotating equipment without isolation. under time pressure to complete the task.,Gas Processing Plant F,Industrial Safety Dataset
+R137,Worker was struck by a falling object near the lifting zone. during a routine inspection.,Well Pad H,Industrial Safety Dataset
+R138,Rigger performed a lifting operation using a damaged sling. while working alone without supervision.,Well Pad H,Industrial Safety Dataset
+R139,A worker was fatally struck by a suspended load during a crane lifting operation.,Loading Terminal G,IOGP Fatal Incident Report
+R140,Employee reported inadequate guarding on a rotating machine part. during night shift operations.,Production Facility B,Industrial Safety Dataset
+R141,"Employee slipped on an oil spill in the workshop, no injury reported. during a routine inspection.",Loading Terminal G,Industrial Safety Dataset
+R142,Worker climbed into a manhole without confined space precautions. during night shift operations.,Drill Site A,Industrial Safety Dataset
+R143,Employee wore full PPE and followed procedure during routine inspection. under time pressure to complete the task.,Electrical Substation I,Industrial Safety Dataset
+R144,Worker was operating in the line of fire of a pressurized hose. during night shift operations.,Production Facility B,Industrial Safety Dataset
+R145,Technician handled a corrosive chemical without required gloves. while working alone without supervision.,Production Facility B,Industrial Safety Dataset
+R146,Worker was operating a hoist without proper training. while working alone without supervision.,Loading Terminal G,Industrial Safety Dataset
+R147,"Employee slipped on an oil spill in the workshop, no injury reported. following a shift handover.",Gas Processing Plant F,Industrial Safety Dataset
+R148,Technician was exposed to a sudden pressure release during valve maintenance. under time pressure to complete the task.,Workshop E,Industrial Safety Dataset
+R149,Worker used a ladder without securing it at the base. under time pressure to complete the task.,Loading Terminal G,Industrial Safety Dataset
+R150,A fatality occurred when a worker fell from height while working on an unguarded platform.,Well Pad H,IOGP Fatal Incident Report
+R151,Maintenance worker performed welding without proper hot work controls. under time pressure to complete the task.,Pipeline ROW D,Industrial Safety Dataset
+R152,Employee bypassed the lockout tagout procedure to restart equipment quickly. during night shift operations.,Gas Processing Plant F,Industrial Safety Dataset
+R153,Worker was exposed to an energized electrical panel.,Electrical Substation I,Industrial Safety Dataset
+R154,Worker performed maintenance on rotating equipment without isolation. during a routine inspection.,Pipeline ROW D,Industrial Safety Dataset
+R155,Worker was operating in the line of fire of a pressurized hose. while working alone without supervision.,Drill Site A,Industrial Safety Dataset
+R156,Worker was struck by a dropped tool from an elevated platform.,Electrical Substation I,Industrial Safety Dataset
+R157,Technician serviced a pump without confirming lockout tagout was applied. during night shift operations.,Gas Processing Plant F,Industrial Safety Dataset
+R158,"A contractor died after a lifting sling failed, causing the suspended load to fall.",Gas Processing Plant F,IOGP Fatal Incident Report
+R159,A fatality occurred when a worker fell from height while working on an unguarded platform.,Pipeline ROW D,IOGP Fatal Incident Report
+R160,Worker completed a toolbox talk before starting maintenance activity. during a routine inspection.,Workshop E,Industrial Safety Dataset
+R161,Object fell from scaffolding narrowly missing a worker below. during night shift operations.,Pipeline ROW D,Industrial Safety Dataset
+R162,Employee bypassed the lockout tagout procedure to restart equipment quickly. during night shift operations.,Loading Terminal G,Industrial Safety Dataset
+R163,Worker was operating in the line of fire of a pressurized hose.,Well Pad H,Industrial Safety Dataset
+R164,Vehicle driver was operating a vehicle on the site.,Gas Processing Plant F,Industrial Safety Dataset
+R165,A fatality resulted from a gas release during a pressure testing operation on a pipeline.,Site Yard J,IOGP Fatal Incident Report
+R166,Crane operator lifted a load without verifying the rigging inspection. under time pressure to complete the task.,Pipeline ROW D,Industrial Safety Dataset
+R167,Worker was operating in the line of fire of a pressurized hose. following a shift handover.,Pipeline ROW D,Industrial Safety Dataset
+R168,Worker noticed an unmarked wet floor and placed a warning sign. during night shift operations.,Electrical Substation I,Industrial Safety Dataset
+R169,Contractor entered the site without completing the induction training. during a routine inspection.,Site Yard J,Industrial Safety Dataset
+R170,Technician serviced a pump without confirming lockout tagout was applied. during a routine inspection.,Drill Site A,Industrial Safety Dataset
+R171,Vehicle driver was operating a vehicle on the site. while working alone without supervision.,Drill Site A,Industrial Safety Dataset
+R172,An employee was killed when caught between a rotating shaft and a fixed guard rail.,Loading Terminal G,IOGP Fatal Incident Report
+R173,Worker entered a confined space without atmospheric testing. during night shift operations.,Tank Farm C,Industrial Safety Dataset
+R174,Worker completed a toolbox talk before starting maintenance activity. during night shift operations.,Loading Terminal G,Industrial Safety Dataset
+R175,Crew performed a drilling operation on the rig floor without a permit review. during night shift operations.,Tank Farm C,Industrial Safety Dataset
+R176,Worker entered a confined space without atmospheric testing. while working alone without supervision.,Gas Processing Plant F,Industrial Safety Dataset
+R177,Worker was operating in the line of fire of a pressurized hose.,Drill Site A,Industrial Safety Dataset
+R178,Employee bypassed the lockout tagout procedure to restart equipment quickly. during night shift operations.,Loading Terminal G,Industrial Safety Dataset
+R179,Worker climbed into a manhole without confined space precautions. under time pressure to complete the task.,Workshop E,Industrial Safety Dataset
+R180,Technician replaced a light fixture using an unstable step ladder. during night shift operations.,Site Yard J,Industrial Safety Dataset
+R181,Worker climbed into a manhole without confined space precautions. following a shift handover.,Production Facility B,Industrial Safety Dataset
+R182,Worker was found on a scaffold without fall protection. during night shift operations.,Loading Terminal G,Industrial Safety Dataset
+R183,Worker was seen without a hard hat near an overhead crane operation.,Workshop E,Industrial Safety Dataset
+R184,Contractor entered the site without completing the induction training. during night shift operations.,Workshop E,Industrial Safety Dataset
+R185,Crane operator lifted a load without verifying the rigging inspection. during a routine inspection.,Gas Processing Plant F,Industrial Safety Dataset
+R186,Employee wore full PPE and followed procedure during routine inspection. during a routine inspection.,Drill Site A,Industrial Safety Dataset
+R187,"A contractor died after a lifting sling failed, causing the suspended load to fall.",Site Yard J,IOGP Fatal Incident Report
+R188,Worker entered a confined space without atmospheric testing. while working alone without supervision.,Gas Processing Plant F,Industrial Safety Dataset
+R189,Technician opened a live electrical panel without lockout applied. during a routine inspection.,Site Yard J,Industrial Safety Dataset
+R190,Worker completed a toolbox talk before starting maintenance activity.,Production Facility B,Industrial Safety Dataset
+R191,Driver skipped the pre-trip vehicle inspection before a long site journey. during night shift operations.,Pipeline ROW D,Industrial Safety Dataset
+R192,A worker was fatally electrocuted while performing unauthorized work on a live circuit.,Pipeline ROW D,IOGP Fatal Incident Report
+R193,Rigger was working under a suspended load during lifting operation. under time pressure to complete the task.,Production Facility B,Industrial Safety Dataset
+R194,Employee was standing below a suspended crane load. during night shift operations.,Electrical Substation I,Industrial Safety Dataset
+R195,Technician entered a tank for cleaning without gas testing performed. under time pressure to complete the task.,Loading Terminal G,Industrial Safety Dataset
+R196,Worker was found on a scaffold without fall protection.,Gas Processing Plant F,Industrial Safety Dataset
+R197,Contractor entered the site without completing the induction training. under time pressure to complete the task.,Workshop E,Industrial Safety Dataset
+R198,Worker completed a toolbox talk before starting maintenance activity. during night shift operations.,Well Pad H,Industrial Safety Dataset
+R199,Falling material from an overhead pipe rack caused a near miss. following a shift handover.,Well Pad H,Industrial Safety Dataset
+R200,Employee was caught between two pieces of moving equipment. following a shift handover.,Drill Site A,Industrial Safety Dataset
+R201,Worker completed a toolbox talk before starting maintenance activity. under time pressure to complete the task.,Production Facility B,Industrial Safety Dataset
+R202,Vehicle driver was operating a vehicle on the site. during a routine inspection.,Pipeline ROW D,Industrial Safety Dataset
+R203,An employee was killed when caught between a rotating shaft and a fixed guard rail.,Drill Site A,IOGP Fatal Incident Report
+R204,Falling material from an overhead pipe rack caused a near miss. under time pressure to complete the task.,Tank Farm C,Industrial Safety Dataset
+R205,Technician handled a corrosive chemical without required gloves. during a routine inspection.,Production Facility B,Industrial Safety Dataset
+R206,Electrician worked on wiring without isolation confirmed. during a routine inspection.,Loading Terminal G,Industrial Safety Dataset
+R207,Worker performed maintenance on rotating equipment without isolation. following a shift handover.,Electrical Substation I,Industrial Safety Dataset
+R208,Contractor entered the site without completing the induction training. during a routine inspection.,Electrical Substation I,Industrial Safety Dataset
+R209,Employee reported inadequate guarding on a rotating machine part.,Production Facility B,Industrial Safety Dataset
+R210,Technician handled a corrosive chemical without required gloves. during a routine inspection.,Gas Processing Plant F,Industrial Safety Dataset
+R211,Worker climbed into a manhole without confined space precautions. during night shift operations.,Pipeline ROW D,Industrial Safety Dataset
+R212,Technician replaced a light fixture using an unstable step ladder. under time pressure to complete the task.,Loading Terminal G,Industrial Safety Dataset
+R213,Worker entered a confined space without atmospheric testing.,Workshop E,Industrial Safety Dataset
+R214,Object fell from scaffolding narrowly missing a worker below. under time pressure to complete the task.,Tank Farm C,Industrial Safety Dataset
+R215,Worker was exposed to an energized electrical panel. during a routine inspection.,Production Facility B,Industrial Safety Dataset
+R216,Crew performed a drilling operation on the rig floor without a permit review.,Electrical Substation I,Industrial Safety Dataset
+R217,Employee bypassed the lockout tagout procedure to restart equipment quickly. following a shift handover.,Pipeline ROW D,Industrial Safety Dataset
+R218,Worker noticed an unmarked wet floor and placed a warning sign. following a shift handover.,Tank Farm C,Industrial Safety Dataset
+R219,Employee was standing below a suspended crane load. following a shift handover.,Well Pad H,Industrial Safety Dataset
+R220,Object fell from scaffolding narrowly missing a worker below. under time pressure to complete the task.,Pipeline ROW D,Industrial Safety Dataset
+R221,Contractor accessed a vessel entry point without permit sign-off. following a shift handover.,Tank Farm C,Industrial Safety Dataset
+R222,Worker performed a routine walk-around inspection with no issues found. following a shift handover.,Well Pad H,Industrial Safety Dataset
+R223,A worker died after being caught in rotating machinery during unguarded maintenance work.,Workshop E,IOGP Fatal Incident Report
+R224,Electrician worked on wiring without isolation confirmed. while working alone without supervision.,Tank Farm C,Industrial Safety Dataset
+R225,Worker was operating in the line of fire of a pressurized hose.,Workshop E,Industrial Safety Dataset
+R226,Technician entered a tank for cleaning without gas testing performed. during night shift operations.,Production Facility B,Industrial Safety Dataset
+R227,"A fatal incident occurred when a pressurized line failed during maintenance, striking a worker.",Workshop E,IOGP Fatal Incident Report
+R228,Electrician worked on wiring without isolation confirmed. following a shift handover.,Production Facility B,Industrial Safety Dataset
+R229,Worker used a ladder without securing it at the base. during a routine inspection.,Gas Processing Plant F,Industrial Safety Dataset
+R230,"Employee slipped on an oil spill in the workshop, no injury reported. during night shift operations.",Loading Terminal G,Industrial Safety Dataset
+R231,Worker performed maintenance on rotating equipment without isolation. following a shift handover.,Site Yard J,Industrial Safety Dataset
+R232,Technician replaced a light fixture using an unstable step ladder. following a shift handover.,Drill Site A,Industrial Safety Dataset
+R233,Technician entered a tank for cleaning without gas testing performed. while working alone without supervision.,Electrical Substation I,Industrial Safety Dataset
+R234,Employee reported strong fumes near the chemical storage tank. under time pressure to complete the task.,Gas Processing Plant F,Industrial Safety Dataset
+R235,Object fell from scaffolding narrowly missing a worker below. under time pressure to complete the task.,Production Facility B,Industrial Safety Dataset
+R236,Vehicle driver was operating a vehicle on the site.,Drill Site A,Industrial Safety Dataset
+R237,Falling material from an overhead pipe rack caused a near miss. during a routine inspection.,Electrical Substation I,Industrial Safety Dataset
+R238,Worker completed a toolbox talk before starting maintenance activity. under time pressure to complete the task.,Well Pad H,Industrial Safety Dataset
+R239,Worker was operating in the line of fire of a pressurized hose. during night shift operations.,Site Yard J,Industrial Safety Dataset
+R240,Electrician worked on wiring without isolation confirmed. under time pressure to complete the task.,Tank Farm C,Industrial Safety Dataset
+R241,An employee was killed when caught between a rotating shaft and a fixed guard rail.,Workshop E,IOGP Fatal Incident Report
+R242,Worker entered a confined space without atmospheric testing. during a routine inspection.,Well Pad H,Industrial Safety Dataset
+R243,Employee was working at height on a roof without a harness. following a shift handover.,Production Facility B,Industrial Safety Dataset
+R244,Worker entered a confined space without atmospheric testing. under time pressure to complete the task.,Site Yard J,Industrial Safety Dataset
+R245,"Employee reported a minor spill of hydraulic oil, cleaned up promptly.",Pipeline ROW D,Industrial Safety Dataset
+R246,Worker was struck by a falling object near the lifting zone. during night shift operations.,Production Facility B,Industrial Safety Dataset
+R247,Worker was operating in the line of fire of a pressurized hose. following a shift handover.,Loading Terminal G,Industrial Safety Dataset
+R248,Worker used a ladder without securing it at the base. while working alone without supervision.,Loading Terminal G,Industrial Safety Dataset
+R249,Employee filled out routine paperwork in the office. during a routine inspection.,Production Facility B,Industrial Safety Dataset
+R250,Employee reported a near miss involving a slippery floor in the corridor. during night shift operations.,Electrical Substation I,Industrial Safety Dataset
+R251,Worker was found on a scaffold without fall protection. during night shift operations.,Gas Processing Plant F,Industrial Safety Dataset
+R252,Maintenance worker performed welding without proper hot work controls.,Workshop E,Industrial Safety Dataset
+R253,Technician entered a tank for cleaning without gas testing performed.,Production Facility B,Industrial Safety Dataset
+R254,A worker died after being pinned between a reversing vehicle and a loading dock structure.,Pipeline ROW D,IOGP Fatal Incident Report
+R255,Contractor entered a confined tank without informing the control room.,Site Yard J,Industrial Safety Dataset
+R256,Technician entered a tank for cleaning without gas testing performed.,Well Pad H,Industrial Safety Dataset
+R257,Crew performed a drilling operation on the rig floor without a permit review.,Production Facility B,Industrial Safety Dataset
+R258,Worker performed a routine walk-around inspection with no issues found.,Pipeline ROW D,Industrial Safety Dataset
+R259,Staff attended a safety training session in the conference room.,Well Pad H,Industrial Safety Dataset
+R260,Object fell from scaffolding narrowly missing a worker below. while working alone without supervision.,Production Facility B,Industrial Safety Dataset
+R261,Falling material from an overhead pipe rack caused a near miss. under time pressure to complete the task.,Electrical Substation I,Industrial Safety Dataset
+R262,Worker entered a confined space without atmospheric testing.,Electrical Substation I,Industrial Safety Dataset
+R263,"Employee slipped on an oil spill in the workshop, no injury reported. following a shift handover.",Workshop E,Industrial Safety Dataset
+R264,Contractor entered the site without completing the induction training. during night shift operations.,Well Pad H,Industrial Safety Dataset
+R265,Rigger was working under a suspended load during lifting operation. during a routine inspection.,Pipeline ROW D,Industrial Safety Dataset
+R266,Worker noticed a loose guard rail and reported it before an incident occurred. during night shift operations.,Production Facility B,Industrial Safety Dataset
+R267,Employee was standing below a suspended crane load. while working alone without supervision.,Pipeline ROW D,Industrial Safety Dataset
+R268,Employee filled out routine paperwork in the office. following a shift handover.,Tank Farm C,Industrial Safety Dataset
+R269,Worker was struck by a dropped tool from an elevated platform. while working alone without supervision.,Gas Processing Plant F,Industrial Safety Dataset
+R270,Truck driver was found using a mobile phone while driving on the road. during a routine inspection.,Tank Farm C,Industrial Safety Dataset
+R271,Worker was cutting a pipe with a spark near open fuel containers.,Site Yard J,Industrial Safety Dataset
+R272,Technician entered a tank for cleaning without gas testing performed. under time pressure to complete the task.,Electrical Substation I,Industrial Safety Dataset
+R273,A fatality resulted from a gas release during a pressure testing operation on a pipeline.,Workshop E,IOGP Fatal Incident Report
+R274,Contractor was grinding near flammable material without a hot work permit. while working alone without supervision.,Pipeline ROW D,Industrial Safety Dataset
+R275,Truck driver was found using a mobile phone while driving on the road. under time pressure to complete the task.,Loading Terminal G,Industrial Safety Dataset
+R276,Employee reported strong fumes near the chemical storage tank.,Loading Terminal G,Industrial Safety Dataset
+R277,Employee was standing below a suspended crane load. while working alone without supervision.,Gas Processing Plant F,Industrial Safety Dataset
+R278,Technician entered a tank for cleaning without gas testing performed. during a routine inspection.,Gas Processing Plant F,Industrial Safety Dataset
+R279,Employee reported strong fumes near the chemical storage tank.,Electrical Substation I,Industrial Safety Dataset
+R280,A driver was killed in a vehicle rollover while transporting equipment on an unpaved road.,Tank Farm C,IOGP Fatal Incident Report
+R281,Rigger was working under a suspended load during lifting operation. during a routine inspection.,Electrical Substation I,Industrial Safety Dataset
+R282,Truck driver was found using a mobile phone while driving on the road. during a routine inspection.,Production Facility B,Industrial Safety Dataset
+R283,Worker touched an energised cable while performing routine maintenance. during a routine inspection.,Well Pad H,Industrial Safety Dataset
+R284,Technician opened a live electrical panel without lockout applied. while working alone without supervision.,Site Yard J,Industrial Safety Dataset
+R285,Worker was found on a scaffold without fall protection. while working alone without supervision.,Well Pad H,Industrial Safety Dataset
+R286,Worker touched an energised cable while performing routine maintenance. during night shift operations.,Workshop E,Industrial Safety Dataset
+R287,Technician opened a live electrical panel without lockout applied. during a routine inspection.,Site Yard J,Industrial Safety Dataset
+R288,Crane operator lifted a load without verifying the rigging inspection. following a shift handover.,Well Pad H,Industrial Safety Dataset
+R289,Driver skipped the pre-trip vehicle inspection before a long site journey. during a routine inspection.,Drill Site A,Industrial Safety Dataset
+R290,"Employee slipped on an oil spill in the workshop, no injury reported. while working alone without supervision.",Production Facility B,Industrial Safety Dataset
+R291,Worker touched an energised cable while performing routine maintenance. during night shift operations.,Pipeline ROW D,Industrial Safety Dataset
+R292,Falling material from an overhead pipe rack caused a near miss. under time pressure to complete the task.,Well Pad H,Industrial Safety Dataset
+R293,Worker performed a routine walk-around inspection with no issues found. under time pressure to complete the task.,Loading Terminal G,Industrial Safety Dataset
+R294,Employee drove a vehicle without a seatbelt during a site journey. during a routine inspection.,Electrical Substation I,Industrial Safety Dataset
+R295,Worker was exposed to an energized electrical panel. under time pressure to complete the task.,Gas Processing Plant F,Industrial Safety Dataset
+R296,Maintenance worker performed welding without proper hot work controls. during night shift operations.,Electrical Substation I,Industrial Safety Dataset
+R297,Truck driver was found using a mobile phone while driving on the road. following a shift handover.,Pipeline ROW D,Industrial Safety Dataset
+R298,Employee filled out routine paperwork in the office. while working alone without supervision.,Drill Site A,Industrial Safety Dataset
+R299,Maintenance worker performed welding without proper hot work controls. following a shift handover.,Tank Farm C,Industrial Safety Dataset
+R300,Worker was exposed to chemical fumes due to a damaged ventilation system.,Production Facility B,Industrial Safety Dataset
+R301,Crane operator lifted a load without verifying the rigging inspection.,Pipeline ROW D,Industrial Safety Dataset
+R302,Falling material from an overhead pipe rack caused a near miss. during a routine inspection.,Pipeline ROW D,Industrial Safety Dataset
+R303,Technician was exposed to a sudden pressure release during valve maintenance. during night shift operations.,Site Yard J,Industrial Safety Dataset
+R304,Truck driver was found using a mobile phone while driving on the road. during a routine inspection.,Well Pad H,Industrial Safety Dataset
+R305,Falling material from an overhead pipe rack caused a near miss. under time pressure to complete the task.,Electrical Substation I,Industrial Safety Dataset
+R306,Driver skipped the pre-trip vehicle inspection before a long site journey. while working alone without supervision.,Electrical Substation I,Industrial Safety Dataset
+R307,Employee was working at height on a roof without a harness.,Well Pad H,Industrial Safety Dataset
+R308,Staff attended a safety training session in the conference room. under time pressure to complete the task.,Pipeline ROW D,Industrial Safety Dataset
+R309,Falling material from an overhead pipe rack caused a near miss. following a shift handover.,Tank Farm C,Industrial Safety Dataset
+R310,Employee was working at height on a roof without a harness. while working alone without supervision.,Workshop E,Industrial Safety Dataset
+R311,Staff attended a safety training session in the conference room. during night shift operations.,Loading Terminal G,Industrial Safety Dataset
+R312,Worker entered a confined space without atmospheric testing. while working alone without supervision.,Loading Terminal G,Industrial Safety Dataset
+R313,Crane operator lifted a load without verifying the rigging inspection. during a routine inspection.,Tank Farm C,Industrial Safety Dataset
+R314,A contractor died after entering an unventilated confined space and being overcome by toxic gas.,Pipeline ROW D,IOGP Fatal Incident Report
+R315,Contractor was grinding near flammable material without a hot work permit.,Drill Site A,Industrial Safety Dataset
+R316,Worker was fatally injured after being struck by a falling drill pipe on the rig floor.,Production Facility B,IOGP Fatal Incident Report
+R317,Employee drove a vehicle without a seatbelt during a site journey. under time pressure to complete the task.,Pipeline ROW D,Industrial Safety Dataset
+R318,Worker was found on a scaffold without fall protection. during night shift operations.,Electrical Substation I,Industrial Safety Dataset
+R319,Worker was seen without a hard hat near an overhead crane operation. while working alone without supervision.,Electrical Substation I,Industrial Safety Dataset
+R320,A fatality resulted from a gas release during a pressure testing operation on a pipeline.,Site Yard J,IOGP Fatal Incident Report
+R321,Vehicle driver was operating a vehicle on the site. during a routine inspection.,Electrical Substation I,Industrial Safety Dataset
+R322,Contractor was grinding near flammable material without a hot work permit. following a shift handover.,Drill Site A,Industrial Safety Dataset
+R323,Worker was cutting a pipe with a spark near open fuel containers. during night shift operations.,Well Pad H,Industrial Safety Dataset
+R324,Falling material from an overhead pipe rack caused a near miss. following a shift handover.,Loading Terminal G,Industrial Safety Dataset
+R325,Technician was exposed to a sudden pressure release during valve maintenance. during a routine inspection.,Well Pad H,Industrial Safety Dataset
+R326,Crane operator lifted a load without verifying the rigging inspection. during a routine inspection.,Loading Terminal G,Industrial Safety Dataset
+R327,Worker was operating a hoist without proper training. while working alone without supervision.,Site Yard J,Industrial Safety Dataset
+R328,An employee was killed when caught between a rotating shaft and a fixed guard rail.,Production Facility B,IOGP Fatal Incident Report
+R329,Contractor accessed a vessel entry point without permit sign-off. during a routine inspection.,Drill Site A,Industrial Safety Dataset
+R330,Worker performed hot work near a chemical storage area without a permit.,Tank Farm C,Industrial Safety Dataset
+R331,Maintenance worker performed welding without proper hot work controls. under time pressure to complete the task.,Workshop E,Industrial Safety Dataset
+R332,"Employee reported a minor spill of hydraulic oil, cleaned up promptly. while working alone without supervision.",Well Pad H,Industrial Safety Dataset
+R333,Worker was exposed to an energized electrical panel.,Tank Farm C,Industrial Safety Dataset
+R334,Worker was struck by a dropped tool from an elevated platform. during a routine inspection.,Drill Site A,Industrial Safety Dataset
+R335,Worker used a ladder without securing it at the base. under time pressure to complete the task.,Drill Site A,Industrial Safety Dataset
+R336,"Worker fell from a small height while descending stairs, minor injury. under time pressure to complete the task.",Well Pad H,Industrial Safety Dataset
+R337,Technician serviced a pump without confirming lockout tagout was applied. while working alone without supervision.,Workshop E,Industrial Safety Dataset
+R338,Rigger performed a lifting operation using a damaged sling. during a routine inspection.,Electrical Substation I,Industrial Safety Dataset
+R339,Worker performed maintenance on rotating equipment without isolation. during a routine inspection.,Pipeline ROW D,Industrial Safety Dataset
+R340,Worker completed a toolbox talk before starting maintenance activity. following a shift handover.,Pipeline ROW D,Industrial Safety Dataset
+R341,Worker was seen without a hard hat near an overhead crane operation. following a shift handover.,Well Pad H,Industrial Safety Dataset
+R342,A worker was fatally injured in an explosion during hot work near a flammable atmosphere.,Production Facility B,IOGP Fatal Incident Report
+R343,Worker was operating a hoist without proper training. under time pressure to complete the task.,Drill Site A,Industrial Safety Dataset
+R344,"A contractor died after a lifting sling failed, causing the suspended load to fall.",Drill Site A,IOGP Fatal Incident Report
+R345,Employee filled out routine paperwork in the office.,Pipeline ROW D,Industrial Safety Dataset
+R346,Worker inspected a pressure vessel without verifying isolation status. during a routine inspection.,Electrical Substation I,Industrial Safety Dataset
+R347,Employee filled out routine paperwork in the office.,Production Facility B,Industrial Safety Dataset
+R348,Worker was found on a scaffold without fall protection. during night shift operations.,Gas Processing Plant F,Industrial Safety Dataset
+R349,Truck driver was found using a mobile phone while driving on the road. following a shift handover.,Production Facility B,Industrial Safety Dataset
+R350,Contractor was grinding near flammable material without a hot work permit. under time pressure to complete the task.,Gas Processing Plant F,Industrial Safety Dataset
+R351,A fatality occurred when a worker fell from height while working on an unguarded platform.,Pipeline ROW D,IOGP Fatal Incident Report
+R352,A worker was fatally injured after a scaffold collapse during construction activity.,Tank Farm C,IOGP Fatal Incident Report
+R353,Crane operator lifted a load without verifying the rigging inspection.,Well Pad H,Industrial Safety Dataset
+R354,Technician opened a live electrical panel without lockout applied. while working alone without supervision.,Tank Farm C,Industrial Safety Dataset
+R355,Worker inspected a pressure vessel without verifying isolation status.,Well Pad H,Industrial Safety Dataset
+R356,Employee was working at height on a roof without a harness. while working alone without supervision.,Workshop E,Industrial Safety Dataset
+R357,Worker was cutting a pipe with a spark near open fuel containers. under time pressure to complete the task.,Loading Terminal G,Industrial Safety Dataset
+R358,Technician handled a corrosive chemical without required gloves. during night shift operations.,Drill Site A,Industrial Safety Dataset
+R359,Employee reported inadequate guarding on a rotating machine part. while working alone without supervision.,Site Yard J,Industrial Safety Dataset
+R360,Worker climbed into a manhole without confined space precautions. under time pressure to complete the task.,Drill Site A,Industrial Safety Dataset
+R361,"Worker fell from a small height while descending stairs, minor injury. following a shift handover.",Workshop E,Industrial Safety Dataset
+R362,Worker performed a routine walk-around inspection with no issues found. while working alone without supervision.,Tank Farm C,Industrial Safety Dataset
+R363,Worker was operating a hoist without proper training.,Drill Site A,Industrial Safety Dataset
+R364,Technician entered a tank for cleaning without gas testing performed. under time pressure to complete the task.,Production Facility B,Industrial Safety Dataset
+R365,Worker used a ladder without securing it at the base. following a shift handover.,Gas Processing Plant F,Industrial Safety Dataset
+R366,Worker used a ladder without securing it at the base. during night shift operations.,Electrical Substation I,Industrial Safety Dataset
+R367,Employee wore full PPE and followed procedure during routine inspection.,Electrical Substation I,Industrial Safety Dataset
+R368,"Employee slipped on an oil spill in the workshop, no injury reported. during night shift operations.",Workshop E,Industrial Safety Dataset
+R369,Worker was exposed to an energized electrical panel. under time pressure to complete the task.,Electrical Substation I,Industrial Safety Dataset
+R370,Worker climbed into a manhole without confined space precautions. under time pressure to complete the task.,Loading Terminal G,Industrial Safety Dataset
+R371,Worker reported a communication gap during shift handover on the drilling rig. while working alone without supervision.,Tank Farm C,Industrial Safety Dataset
+R372,A worker died after being pinned between a reversing vehicle and a loading dock structure.,Site Yard J,IOGP Fatal Incident Report
+R373,Worker was struck by a falling object near the lifting zone. during night shift operations.,Tank Farm C,Industrial Safety Dataset
+R374,Maintenance worker performed welding without proper hot work controls. during night shift operations.,Site Yard J,Industrial Safety Dataset
+R375,Maintenance worker performed welding without proper hot work controls. while working alone without supervision.,Loading Terminal G,Industrial Safety Dataset
+R376,Worker handled hazardous chemicals without reviewing the safety data sheet. while working alone without supervision.,Well Pad H,Industrial Safety Dataset
+R377,Contractor was grinding near flammable material without a hot work permit. following a shift handover.,Loading Terminal G,Industrial Safety Dataset
+R378,Employee was standing below a suspended crane load.,Pipeline ROW D,Industrial Safety Dataset
+R379,A worker was fatally struck by a suspended load during a crane lifting operation.,Pipeline ROW D,IOGP Fatal Incident Report
+R380,Worker was cutting a pipe with a spark near open fuel containers. during a routine inspection.,Well Pad H,Industrial Safety Dataset
+R381,Worker performed maintenance on rotating equipment without isolation. under time pressure to complete the task.,Production Facility B,Industrial Safety Dataset
+R382,Worker was exposed to chemical fumes due to a damaged ventilation system. while working alone without supervision.,Well Pad H,Industrial Safety Dataset
+R383,Technician replaced a light fixture using an unstable step ladder. while working alone without supervision.,Gas Processing Plant F,Industrial Safety Dataset
+R384,A worker was fatally electrocuted while performing unauthorized work on a live circuit.,Well Pad H,IOGP Fatal Incident Report
+R385,Technician opened a live electrical panel without lockout applied. during a routine inspection.,Electrical Substation I,Industrial Safety Dataset
+R386,Contractor was grinding near flammable material without a hot work permit. during a routine inspection.,Workshop E,Industrial Safety Dataset
+R387,Worker completed a toolbox talk before starting maintenance activity. under time pressure to complete the task.,Tank Farm C,Industrial Safety Dataset
+R388,Employee drove a vehicle without a seatbelt during a site journey. while working alone without supervision.,Pipeline ROW D,Industrial Safety Dataset
+R389,Technician replaced a light fixture using an unstable step ladder. following a shift handover.,Drill Site A,Industrial Safety Dataset
+R390,A worker died after being pinned between a reversing vehicle and a loading dock structure.,Pipeline ROW D,IOGP Fatal Incident Report
+R391,Worker handled hazardous chemicals without reviewing the safety data sheet. following a shift handover.,Workshop E,Industrial Safety Dataset
+R392,Employee drove a vehicle without a seatbelt during a site journey. under time pressure to complete the task.,Loading Terminal G,Industrial Safety Dataset
+R393,Worker was struck by a falling object near the lifting zone. while working alone without supervision.,Pipeline ROW D,Industrial Safety Dataset
+R394,Worker completed a toolbox talk before starting maintenance activity. following a shift handover.,Site Yard J,Industrial Safety Dataset
+R395,Worker performed a routine walk-around inspection with no issues found. under time pressure to complete the task.,Production Facility B,Industrial Safety Dataset
+R396,Electrician worked on wiring without isolation confirmed. while working alone without supervision.,Drill Site A,Industrial Safety Dataset
+R397,"Worker fell from a small height while descending stairs, minor injury. under time pressure to complete the task.",Gas Processing Plant F,Industrial Safety Dataset
+R398,Worker was struck by a falling object near the lifting zone. under time pressure to complete the task.,Site Yard J,Industrial Safety Dataset
+R399,Technician replaced a light fixture using an unstable step ladder. following a shift handover.,Production Facility B,Industrial Safety Dataset
+R400,Employee was working at height on a roof without a harness. following a shift handover.,Gas Processing Plant F,Industrial Safety Dataset
+R401,Worker entered a confined space without atmospheric testing. while working alone without supervision.,Electrical Substation I,Industrial Safety Dataset
+R402,Object fell from scaffolding narrowly missing a worker below. under time pressure to complete the task.,Loading Terminal G,Industrial Safety Dataset
+R403,Employee was standing below a suspended crane load. while working alone without supervision.,Electrical Substation I,Industrial Safety Dataset
+R404,A driver was killed in a vehicle rollover while transporting equipment on an unpaved road.,Production Facility B,IOGP Fatal Incident Report
+R405,Employee filled out routine paperwork in the office. while working alone without supervision.,Well Pad H,Industrial Safety Dataset
+R406,Employee was caught between two pieces of moving equipment.,Workshop E,Industrial Safety Dataset
+R407,Technician handled a corrosive chemical without required gloves. during night shift operations.,Tank Farm C,Industrial Safety Dataset
+R408,Employee drove a vehicle without a seatbelt during a site journey. during a routine inspection.,Workshop E,Industrial Safety Dataset
+R409,Staff attended a safety training session in the conference room. during night shift operations.,Electrical Substation I,Industrial Safety Dataset
+R410,A contractor died after entering an unventilated confined space and being overcome by toxic gas.,Workshop E,IOGP Fatal Incident Report
+R411,Vehicle driver was operating a vehicle on the site.,Production Facility B,Industrial Safety Dataset
+R412,Employee drove a vehicle without a seatbelt during a site journey. during night shift operations.,Pipeline ROW D,Industrial Safety Dataset
+R413,Worker inspected a pressure vessel without verifying isolation status. during night shift operations.,Drill Site A,Industrial Safety Dataset
+R414,Employee reported inadequate guarding on a rotating machine part. following a shift handover.,Drill Site A,Industrial Safety Dataset
+R415,Worker was exposed to an energized electrical panel. under time pressure to complete the task.,Workshop E,Industrial Safety Dataset
+R416,"Worker fell from a small height while descending stairs, minor injury. during night shift operations.",Loading Terminal G,Industrial Safety Dataset
+R417,Crane operator lifted a load without verifying the rigging inspection. while working alone without supervision.,Tank Farm C,Industrial Safety Dataset
+R418,Worker noticed a loose guard rail and reported it before an incident occurred. during night shift operations.,Production Facility B,Industrial Safety Dataset
+R419,"Worker fell from a small height while descending stairs, minor injury. while working alone without supervision.",Workshop E,Industrial Safety Dataset
+R420,Crane operator lifted a load without verifying the rigging inspection. during a routine inspection.,Site Yard J,Industrial Safety Dataset
+R421,Worker was operating in the line of fire of a pressurized hose. during night shift operations.,Site Yard J,Industrial Safety Dataset
+R422,Crane operator lifted a load without verifying the rigging inspection. while working alone without supervision.,Drill Site A,Industrial Safety Dataset
+R423,A worker was fatally injured in an explosion during hot work near a flammable atmosphere.,Gas Processing Plant F,IOGP Fatal Incident Report
+R424,Vehicle driver was operating a vehicle on the site. under time pressure to complete the task.,Loading Terminal G,Industrial Safety Dataset
+R425,Employee bypassed the lockout tagout procedure to restart equipment quickly. during night shift operations.,Workshop E,Industrial Safety Dataset
+R426,"Employee slipped on an oil spill in the workshop, no injury reported. following a shift handover.",Site Yard J,Industrial Safety Dataset
+R427,Worker completed a toolbox talk before starting maintenance activity. under time pressure to complete the task.,Workshop E,Industrial Safety Dataset
+R428,Worker was operating in the line of fire of a pressurized hose. while working alone without supervision.,Production Facility B,Industrial Safety Dataset
+R429,Worker entered a confined space without atmospheric testing. during a routine inspection.,Drill Site A,Industrial Safety Dataset
+R430,"Employee slipped on an oil spill in the workshop, no injury reported. during night shift operations.",Pipeline ROW D,Industrial Safety Dataset
+R431,Worker was cutting a pipe with a spark near open fuel containers. following a shift handover.,Site Yard J,Industrial Safety Dataset
+R432,An employee died from asphyxiation after entering a tank without atmospheric testing.,Electrical Substation I,IOGP Fatal Incident Report
+R433,Worker was exposed to chemical fumes due to a damaged ventilation system. following a shift handover.,Well Pad H,Industrial Safety Dataset
+R434,Crane operator lifted a load without verifying the rigging inspection. while working alone without supervision.,Loading Terminal G,Industrial Safety Dataset
+R435,Vehicle driver was operating a vehicle on the site. following a shift handover.,Gas Processing Plant F,Industrial Safety Dataset
+R436,Technician entered a tank for cleaning without gas testing performed. while working alone without supervision.,Well Pad H,Industrial Safety Dataset
+R437,Worker noticed a loose guard rail and reported it before an incident occurred. following a shift handover.,Tank Farm C,Industrial Safety Dataset
+R438,Employee filled out routine paperwork in the office. under time pressure to complete the task.,Loading Terminal G,Industrial Safety Dataset
+R439,Contractor accessed a vessel entry point without permit sign-off. during a routine inspection.,Tank Farm C,Industrial Safety Dataset
+R440,Employee reported strong fumes near the chemical storage tank.,Production Facility B,Industrial Safety Dataset
+R441,A driver was killed in a vehicle rollover while transporting equipment on an unpaved road.,Electrical Substation I,IOGP Fatal Incident Report
+R442,Contractor accessed a vessel entry point without permit sign-off.,Loading Terminal G,Industrial Safety Dataset
+R443,A worker died after contact with an energized high-voltage electrical panel during maintenance.,Loading Terminal G,IOGP Fatal Incident Report
+R444,A contractor died after entering an unventilated confined space and being overcome by toxic gas.,Gas Processing Plant F,IOGP Fatal Incident Report
+R445,Contractor entered a confined tank without informing the control room.,Workshop E,Industrial Safety Dataset
+R446,Worker noticed a loose guard rail and reported it before an incident occurred. during night shift operations.,Production Facility B,Industrial Safety Dataset
+R447,Worker was struck by a falling object near the lifting zone. during a routine inspection.,Gas Processing Plant F,Industrial Safety Dataset
+R448,Contractor entered a confined tank without informing the control room.,Site Yard J,Industrial Safety Dataset
+R449,Worker reported a communication gap during shift handover on the drilling rig. during night shift operations.,Site Yard J,Industrial Safety Dataset
+R450,Worker inspected a pressure vessel without verifying isolation status. under time pressure to complete the task.,Production Facility B,Industrial Safety Dataset
+R451,Worker performed hot work near a chemical storage area without a permit. during a routine inspection.,Gas Processing Plant F,Industrial Safety Dataset
